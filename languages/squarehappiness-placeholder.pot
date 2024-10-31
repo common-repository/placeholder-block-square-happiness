@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: squarehappiness-placeholder v1.0\n"
+"POT-Creation-Date: 2018-10-04 17:44+0200\n"
+"PO-Revision-Date: 2018-10-04 17:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: Square Happiness\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/requirements.php:30
+#, php-format
+msgid "Minimum PHP version is %s."
+msgstr ""
+
+#: inc/requirements.php:35
+#, php-format
+msgid "Minimum WordPress version is %s."
+msgstr ""
+
+#: inc/requirements.php:42
+#, php-format
+msgid ""
+"Please install or activate <a href=\"%s\" target=\"_blank\">Gutenberg</a> "
+"before activating this plugin."
+msgstr ""
+
+#: inc/settings_page.php:11
+msgid "Placeholder plugin"
+msgstr ""
+
+#: inc/settings_page.php:19 inc/settings_page.php:24
+msgid "Who we are"
+msgstr ""
+
+#: inc/settings_page.php:20 inc/settings_page.php:27
+msgid "The advantages of Placeholder"
+msgstr ""
+
+#: inc/settings_page.php:21 inc/settings_page.php:36
+msgid "Getting started"
+msgstr ""
+
+#: inc/settings_page.php:25
+msgid ""
+"The Placeholder plugin is developed and maintained by Square Happiness, a "
+"studio driven by professionals with a long experience in the market. "
+"Placeholder has been created for the Gutenberg editor with the aim of making "
+"repetitive work easier and thus, saving time."
+msgstr ""
+
+#: inc/settings_page.php:29
+msgid ""
+"Create a set composed by blocks (paragraph, image, video and more), for "
+"instance Call to action header."
+msgstr ""
+
+#: inc/settings_page.php:30
+msgid ""
+"Take the Call to action header template from the admin menu and use it on "
+"all the pages you need."
+msgstr ""
+
+#: inc/settings_page.php:31
+msgid ""
+"Modify Call to action header once and Call to action header will be modified "
+"in all the pages and entries in which it is right away. You DONT need to "
+"change page by page."
+msgstr ""
+
+#: inc/settings_page.php:32
+msgid ""
+"Duplicate Call to action header and modify the content of the blocks "
+"(paragraph, image, video and more). You will have a new BLOCK2 with the same "
+"style but different content that you can use as many times as you need."
+msgstr ""
+
+#: inc/settings_page.php:37
+msgid ""
+"You must ensure that you have installed and activated the Gutenberg editor. "
+"Otherwise, Placeholder does not work."
+msgstr ""
+
+#: inc/settings_page.php:38
+msgid ""
+"As many of you know, the Gutenberg editor is based on a block system of "
+"contents like paragraph, image, video and more to create posts or pages."
+msgstr ""
+
+#: inc/settings_page.php:39
+msgid ""
+"What happens when you want to use the same built content on different pages? "
+"Many times we have information important enough to share in different places "
+"of your site. However, duplicate the layout done is a hard work or too "
+"cumbersome."
+msgstr ""
+
+#: inc/settings_page.php:40
+msgid ""
+"Placeholder plugin allows you to <b>create sets of blocks</b> that you can "
+"save as a template to use wherever you want. And not only this, whenever you "
+"edit a Placeholder, <b>the changes made are updated in all the places</b> "
+"the Placeholder block is used."
+msgstr ""
+
+#: inc/settings_page.php:42
+msgid "First step"
+msgstr ""
+
+#: inc/settings_page.php:43
+msgid ""
+"The Placeholder menu will appear in your Dashboardh menu. Go to Placeholder -"
+"> Add New."
+msgstr ""
+
+#: inc/settings_page.php:46
+msgid "Second step"
+msgstr ""
+
+#: inc/settings_page.php:47
+msgid ""
+"Edit the Placeholder as you want it to appear. Add the needed blocks and set "
+"them as you like. Then save it. Take in account that the Placeholder´s title "
+"will never be displayed."
+msgstr ""
+
+#: inc/settings_page.php:50
+msgid "Third step"
+msgstr ""
+
+#: inc/settings_page.php:51
+msgid ""
+"Navigate to the content you want the Placeholder to appear in. Click the "
+"plus button and search for the Placeholder block."
+msgstr ""
+
+#: inc/settings_page.php:53
+msgid ""
+"Then, on the right side panel, select the Placeholder you want to use from "
+"the dropdown: "
+msgstr ""
+
+#: inc/settings_page.php:56
+msgid "Add any other blocks you may need and save your content. You are done!"
+msgstr ""
+
+#: inc/settings_page.php:57
+msgid ""
+"Now you can see your set of blocks displayed where you put the Placeholder "
+"block, and if you need some changes, just update your Placeholder in one "
+"place and all your blocks apareances will update."
+msgstr ""
+
+#: inc/settings_page.php:65
+msgid "Advantages"
+msgstr ""
+
+#: inc/settings_page.php:68
+msgid "Compound reusable sets of blocks."
+msgstr ""
+
+#: inc/settings_page.php:69
+msgid "Use these sets anywhere you want."
+msgstr ""
+
+#: inc/settings_page.php:70
+msgid "Update once, update all."
+msgstr ""
+
+#: inc/settings_page.php:74
+msgid "Square Happiness"
+msgstr ""
+
+#: inc/settings_page.php:76
+msgid ""
+"We are a plugin studio working hard to deliver the best plugins and "
+"WordPress tools."
+msgstr ""
+
+#: inc/settings_page.php:77
+msgid "<a href=\"https://squarehappiness.com/\" target=\"_blank\">Visit us</a>"
+msgstr ""
